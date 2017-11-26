@@ -64,7 +64,7 @@ $(window).resize();
 
 container.click(changePicture);
 
-tracking.track('#myCanvas', colors, {camera: true});
+tracking.track('#myVideo', colors, {camera: true});
 
 
 

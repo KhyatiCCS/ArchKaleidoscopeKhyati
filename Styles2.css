@@ -18,3 +18,5 @@ body {
   color: white;
   text-decoration: none;
 }
+
+#myVideo {display: hidden}
